@@ -6,13 +6,13 @@
 
 html body{
 
-    height: 99vh;
+    
     width: 98vw;
     background-color: black;
 }
 
 body {
-    background: url(imagens/fundo-madeira.jpg) no-repeat top center ;
+    background: url(../imagens/fundo-madeira.jpg) no-repeat top center ;
     background-size: cover;
     background-attachment: fixed;
 
@@ -21,7 +21,8 @@ body {
 
 main {
     position: relative;
-    height: 98vh;    
+    height: 96vh;
+      
     
 }
 #telefone {
@@ -31,7 +32,7 @@ main {
     transform: translate(-50%, -50%);
     height: 627px;
     width: 311px;
-    background: url(imagens/frame-iphone.png) no-repeat;
+    background: url(../imagens/frame-iphone.png) no-repeat;
 }
 
 #tela {
