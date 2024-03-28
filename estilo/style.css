@@ -46,11 +46,11 @@ main {
 }
 #telefone {
     position: absolute;
-    top:30%;
+    top:60%;
     left:50%;
-    transform: translate(-40%, -20%);
+    transform: translate(-50%, -50%);
     height: 627px;
-    width: 311px;
+    width: 240px;
     background: url(../imagens/frame-samsung.png) no-repeat;
 }
 
@@ -65,9 +65,6 @@ main {
 
 #redes-sociais {
     text-align:right;
-   
-    
-    
 }
 
 section#redes-sociais img{ 
@@ -76,6 +73,7 @@ section#redes-sociais img{
     border-radius: 100%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.400);
     box-sizing: border-box;
+    
     
 }
 
